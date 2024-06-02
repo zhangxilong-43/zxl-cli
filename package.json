@@ -1,5 +1,5 @@
 {
-  "name": "zxl-cli",
+  "name": "zxl43-cli",
   "version": "1.0.0",
   "description": "一个自定义模版的前端脚手架工具",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "zxl": "./bin/cli.js"
   },
   "scripts": {},
-  "author": "",
+  "author": "zhangxilong-43",
   "license": "ISC",
   "devDependencies": {
     "inquirer": "^8.0.0"
